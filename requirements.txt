@@ -4,3 +4,5 @@ pandas
 datetime
 Pillow
 shaply
+skit-learn
+matplotlib
